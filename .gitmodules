@@ -1,0 +1,6 @@
+[submodule "kitting_station"]
+	path = kitting_station
+	url = git@github.com:patsyuk03/kitting_station.git
+[submodule "dual_xarm7_moveit_config"]
+	path = dual_xarm7_moveit_config
+	url = git@github.com:patsyuk03/dual_xarm7_moveit_config.git
